@@ -1,0 +1,32 @@
+{
+  "name": "gonzaga-health-sciences-club",
+  "version": "1.0.0",
+  "description": "An informational website for GU pre-med students.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGentlemanCoder/Gonzaga-Health-Sciences-Club.git"
+  },
+  "keywords": [
+    "pre-med",
+    "medicene",
+    "gonzaga",
+    "university",
+    "hsc",
+    "health",
+    "sciences",
+    "club"
+  ],
+  "author": "Nicholas R. Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheGentlemanCoder/Gonzaga-Health-Sciences-Club/issues"
+  },
+  "homepage": "https://github.com/TheGentlemanCoder/Gonzaga-Health-Sciences-Club#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
